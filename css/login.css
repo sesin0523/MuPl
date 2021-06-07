@@ -1,0 +1,27 @@
+*  {
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+body {
+    background-image: url("../다운로드.jpeg");
+}
+.login_form {
+    display: inline-block;
+    background: white;
+}
+.lbl {
+    margin: 5px;
+}
+.int {
+    margin: 5px;
+    padding: 5px;
+}
+.title {
+    color: rgb(192, 191, 191);
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .title:hover {
+    color: rgb(110, 110, 110);
+}
